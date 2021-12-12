@@ -1,0 +1,49 @@
+{
+    "pokemons":[
+        {
+            "id": 1,
+            "name": "Arceus",
+            "order": 1,
+            "gender_rate": -1,
+            "capture_rate": 1,
+            "base_happiness": 1,
+            "is_baby": false,
+            "is_legendary": true,
+            "is_mythical": true,
+            "hatch_encounter": 0,
+            "has_gender_differences": false,
+            "forms_switchable": true
+            
+        },
+        {
+            "id": 2,
+            "name": "Pikachu",
+            "order": 2,
+            "gender_rate": 1,
+            "capture_rate": 25,
+            "base_happiness": 1,
+            "is_baby": false,
+            "is_legendary": false,
+            "is_mythical": true,
+            "hatch_encounter": 1,
+            "has_gender_differences": true,
+            "forms_switchable": false
+            
+        },
+        {
+            "id": 3,
+            "name": "Togepi",
+            "order": 1,
+            "gender_rate": 1,
+            "capture_rate": 40,
+            "base_happiness": 25,
+            "is_baby": true,
+            "is_legendary": false,
+            "is_mythical": false,
+            "hatch_encounter": 100,
+            "has_gender_differences": false,
+            "forms_switchable": false
+            
+        }
+    ]
+}
